@@ -1,0 +1,10 @@
+/home/ho1ai-main/dev/projects/game-engine_oblivium/oblivium/target/debug/deps/libwayland_client-6ccbae579fcbfb6d.rmeta: /home/ho1ai-main/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-client-0.31.11/src/lib.rs /home/ho1ai-main/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-client-0.31.11/src/conn.rs /home/ho1ai-main/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-client-0.31.11/src/event_queue.rs /home/ho1ai-main/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-client-0.31.11/src/globals.rs
+
+/home/ho1ai-main/dev/projects/game-engine_oblivium/oblivium/target/debug/deps/libwayland_client-6ccbae579fcbfb6d.rlib: /home/ho1ai-main/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-client-0.31.11/src/lib.rs /home/ho1ai-main/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-client-0.31.11/src/conn.rs /home/ho1ai-main/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-client-0.31.11/src/event_queue.rs /home/ho1ai-main/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-client-0.31.11/src/globals.rs
+
+/home/ho1ai-main/dev/projects/game-engine_oblivium/oblivium/target/debug/deps/wayland_client-6ccbae579fcbfb6d.d: /home/ho1ai-main/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-client-0.31.11/src/lib.rs /home/ho1ai-main/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-client-0.31.11/src/conn.rs /home/ho1ai-main/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-client-0.31.11/src/event_queue.rs /home/ho1ai-main/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-client-0.31.11/src/globals.rs
+
+/home/ho1ai-main/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-client-0.31.11/src/lib.rs:
+/home/ho1ai-main/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-client-0.31.11/src/conn.rs:
+/home/ho1ai-main/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-client-0.31.11/src/event_queue.rs:
+/home/ho1ai-main/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-client-0.31.11/src/globals.rs:
